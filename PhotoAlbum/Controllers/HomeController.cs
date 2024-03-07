@@ -12,16 +12,16 @@ public class HomeController : Controller
         return View();
     }
 
-	// Action method for navigating to Page1.cshtml
-	public ActionResult NavigateToPage1()
+	// Action method for navigating to Album1.cshtml
+	public ActionResult NavigateToAlbum1()
 	{
-		// Redirect to Page1 action
-		return RedirectToAction("Page1");
+		// Redirect to Album1 action
+		return RedirectToAction("Album1");
 	}
 
-	// Action method to render Page1.cshtml view
-	public ActionResult Page1()
+	// Action method to render Album1.cshtml view
+	public ActionResult Album1()
 	{
-		return View("~/Views/Pages/Page1.cshtml");
+		return View("~/Views/Albums/Album1.cshtml");
 	}
 }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\PhotoAlbum.csproj",
+      "projectUniqueName": "C:\\Users\\k\\Documents\\Photo Album\\JMKSYPhotoAlbum\\PhotoAlbum\\PhotoAlbum.csproj",
       "projectName": "PhotoAlbum",
-      "projectPath": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\PhotoAlbum.csproj",
+      "projectPath": "C:\\Users\\k\\Documents\\Photo Album\\JMKSYPhotoAlbum\\PhotoAlbum\\PhotoAlbum.csproj",
       "packagesPath": "C:\\Users\\k\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\obj\\",
+      "outputPath": "C:\\Users\\k\\Documents\\Photo Album\\JMKSYPhotoAlbum\\PhotoAlbum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
