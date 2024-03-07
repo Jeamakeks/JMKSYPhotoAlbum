@@ -11,7 +11,7 @@
 		<link rel="stylesheet" href="/css/index.css">
 		<style>
         /* Inline CSS style */
-        .header {
+        body {
 			background-image: url('/home/gg.jpg');
 			background-size: cover;
 			color: #020202;
@@ -21,11 +21,13 @@
         }
 		</style>
 	</head>
+	<header class="header">
 
-	<body class="header">
+	</header>
+	<body>
 		<h1>My Photo Album</h1>
 		<div class="flex-container">
-			<a href="@Url.Action("NavigateToPage1", "Home")">
+			<a href="@Url.Action("NavigateToAlbum1", "Home")">
 				<div class="flex-box1">
 					<img src="home/box1.jpg">
 						<div class="caption">
