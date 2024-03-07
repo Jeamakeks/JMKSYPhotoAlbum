@@ -1,0 +1,70 @@
+﻿@{
+	ViewData["Title"] = "Home Page";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<title>My Photo Album</title>
+		<link rel="stylesheet" href="/css/index.css">
+		<style>
+        /* Inline CSS style */
+        .header {
+			background-image: url('/home/gg.jpg');
+			background-size: cover;
+			color: #020202;
+			padding: 0;
+			text-align: center;
+			font-size: 23px;
+        }
+		</style>
+	</head>
+
+	<body class="header">
+		<h1>My Photo Album</h1>
+		<div class="flex-container">
+			<a href="@Url.Action("NavigateToPage1", "Home")">
+				<div class="flex-box1">
+					<img src="home/box1.jpg">
+						<div class="caption">
+							<p>UC Table Tennis Team</p>
+						</div>
+				</div>
+			</a>
+			<a>
+				<div class="flex-box2">
+					<img src="home/wtt.jpg">
+						<div class="caption">
+							<p>Table Tennis International Players</p>
+						</div>
+				</div>
+			</a>
+			<a>
+				<div class="flex-box3">
+					<img src="home/f1.png">
+						<div class="caption">
+							<p>F1 Racers</p>
+						</div>
+				</div>
+			</a>
+			<a>
+				<div class="flex-box4">
+					<img src="home/box1.jpg">
+						<div class="caption">
+							<p>uc chuchu</p>
+						</div>
+				</div>
+			</a>
+			<a>
+				<div class="flex-box5">
+					<img src="home/box1.jpg">
+						<div class="caption">
+							<p>uc chuchu</p>
+						</div>
+				</div>
+			</a>
+		</div>
+	</body>
+</html>

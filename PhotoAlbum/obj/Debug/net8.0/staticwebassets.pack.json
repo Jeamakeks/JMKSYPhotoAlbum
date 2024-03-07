@@ -1,0 +1,373 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PhotoAlbum.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PhotoAlbum.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\css\\index.css",
+      "PackagePath": "staticwebassets\\css\\index.css"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\css\\page1.css",
+      "PackagePath": "staticwebassets\\css\\page1.css"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\home\\box1.jpg",
+      "PackagePath": "staticwebassets\\home\\box1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\home\\f1.png",
+      "PackagePath": "staticwebassets\\home\\f1.png"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\home\\gg.jpg",
+      "PackagePath": "staticwebassets\\home\\gg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\home\\wtt.jpg",
+      "PackagePath": "staticwebassets\\home\\wtt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\page1\\1bg.jpg",
+      "PackagePath": "staticwebassets\\page1\\1bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\page1\\aira.jpg",
+      "PackagePath": "staticwebassets\\page1\\aira.jpg"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\page1\\andrie.jpg",
+      "PackagePath": "staticwebassets\\page1\\andrie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\page1\\cesafi.jpg",
+      "PackagePath": "staticwebassets\\page1\\cesafi.jpg"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\page1\\chuchay.jpg",
+      "PackagePath": "staticwebassets\\page1\\chuchay.jpg"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\page1\\clyde.jpg",
+      "PackagePath": "staticwebassets\\page1\\clyde.jpg"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\page1\\coach.jpg",
+      "PackagePath": "staticwebassets\\page1\\coach.jpg"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\page1\\franz.jpg",
+      "PackagePath": "staticwebassets\\page1\\franz.jpg"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\page1\\gab.jpg",
+      "PackagePath": "staticwebassets\\page1\\gab.jpg"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\page1\\harvey.jpg",
+      "PackagePath": "staticwebassets\\page1\\harvey.jpg"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\page1\\jeama.jpg",
+      "PackagePath": "staticwebassets\\page1\\jeama.jpg"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\page1\\kaye.jpg",
+      "PackagePath": "staticwebassets\\page1\\kaye.jpg"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\page1\\labjoy.jpg",
+      "PackagePath": "staticwebassets\\page1\\labjoy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\page1\\levhin.jpg",
+      "PackagePath": "staticwebassets\\page1\\levhin.jpg"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\page1\\mikay.jpg",
+      "PackagePath": "staticwebassets\\page1\\mikay.jpg"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\page1\\neve.jpg",
+      "PackagePath": "staticwebassets\\page1\\neve.jpg"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\page1\\ning.jpg",
+      "PackagePath": "staticwebassets\\page1\\ning.jpg"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\page1\\patrick.jpg",
+      "PackagePath": "staticwebassets\\page1\\patrick.jpg"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\page1\\prisaa.jpg",
+      "PackagePath": "staticwebassets\\page1\\prisaa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\page1\\rap.jpg",
+      "PackagePath": "staticwebassets\\page1\\rap.jpg"
+    },
+    {
+      "Id": "C:\\Users\\k\\Documents\\KESIYA\\INTPROG\\PhotoAlbum\\wwwroot\\page1\\regional.jpg",
+      "PackagePath": "staticwebassets\\page1\\regional.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PhotoAlbum.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PhotoAlbum.props",
+      "PackagePath": "build\\PhotoAlbum.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PhotoAlbum.props",
+      "PackagePath": "buildMultiTargeting\\PhotoAlbum.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PhotoAlbum.props",
+      "PackagePath": "buildTransitive\\PhotoAlbum.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
