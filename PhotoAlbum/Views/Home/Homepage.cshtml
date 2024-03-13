@@ -1,9 +1,10 @@
 ﻿<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>JMKSY Photo Album</title>
-    <link rel="icon" type="image/png" href="images/logo/jmksy.whitelogo.png">
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+    <title>
+       JMKSY Gallery
+    </title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&amp;display=swap" rel="stylesheet" />
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet" />
@@ -41,13 +42,11 @@
             </a>
         </nav>
     </header>
-
-    <main class="container mx-auto px-4">
-        <section class="text-center mb-6">
+    <main>
+        <section class="text-center mb-8">
             <h2 class="text-6xl font-bold">
                 JMKSY GALLERY
             </h2>
-            </div>
         </section>
         <section class="mb-8">
             <ul class="flex justify-center space-x-4 text-sm font-semibold">
@@ -68,25 +67,27 @@
                 </li>
                 <li>
                     <a class="text-white hover:text-gray-300" href="#">
-                        STUDIES
+                        SCHOOL
                     </a>
                 </li>
             </ul>
         </section>
         <section class="grid grid-cols-4 gap-4">
             <!-- Image 1 -->
-            <div class="bg-gray-700 p-2" href="@Url.Action("NavigateToAlbum1", "Home")">
-                <img alt="Sexy suntanned lady on the beach" class="mb-2" src="images/home/box1.jpg" />
-                <h3 class="text-sm font-semibold mb-1">
-                    UC Table Tennis Team
-                </h3>
-                <a class="text-xs text-gray-400 hover:text-gray-300" href="#">
-                    Brief Description
-                </a>
-            </div>
+            <a href="@Url.Action("NavigateToAlbum1", "Home")">
+                <div class="bg-gray-700 p-2">
+                    <img class="mb-2" src="images/home/box1.jpg" />
+                    <h3 class="text-sm font-semibold mb-1">
+                        UC Table Tennis Team
+                    </h3>
+                    <a class="text-xs text-gray-400 hover:text-gray-300" href="#">
+                        Brief Description
+                    </a>
+                </div>
+            </a>
             <!-- Image 2 -->
             <div class="bg-gray-700 p-2">
-                <img alt="Two beautiful girls posing" class="mb-2" height="200" src="images/home/wtt.jpg" />
+                <img class="mb-2" height="200" src="images/home/wtt.jpg" />
                 <h3 class="text-sm font-semibold mb-1">
                     Table Tennis International Players
                 </h3>
@@ -96,7 +97,7 @@
             </div>
             <!-- Image 3 -->
             <div class="bg-gray-700 p-2">
-                <img alt="A beautiful girl with sunglasses" class="mb-2" height="200" src="images/home/f1.png" />
+                <img class="mb-2" height="200" src="images/home/f1.png" />
                 <h3 class="text-sm font-semibold mb-1">
                     F1 Racers
                 </h3>
@@ -106,7 +107,7 @@
             </div>
             <!-- Image 4 -->
             <div class="bg-gray-700 p-2">
-                <img alt="Fashion sexy woman in a black dress" class="mb-2" height="200" src="images/home/box1.jpg" />
+                <img class="mb-2" height="200" src="images/home/box1.jpg" />
                 <h3 class="text-sm font-semibold mb-1">
                     UC Athletics
                 </h3>
@@ -116,7 +117,7 @@
             </div>
             <!-- Image 5 -->
             <div class="bg-gray-700 p-2">
-                <img alt="Young sexy woman in a bikini" class="mb-2" height="200" src="images/home/box1.jpg" />
+                <img class="mb-2" height="200" src="images/home/box1.jpg" />
                 <h3 class="text-sm font-semibold mb-1">
                     UC LM Table Tennis
                 </h3>
@@ -124,9 +125,9 @@
                     Brief Description
                 </a>
             </div>
-            <!-- Image 1 -->
+            <!-- Image 6 -->
             <div class="bg-gray-700 p-2">
-                <img alt="Sexy suntanned lady on the beach" class="mb-2" src="images/home/box1.jpg" />
+                <img class="mb-2" src="images/home/box1.jpg" />
                 <h3 class="text-sm font-semibold mb-1">
                     UC Table Tennis Team
                 </h3>
@@ -134,9 +135,9 @@
                     Brief Description
                 </a>
             </div>
-            <!-- Image 2 -->
+            <!-- Image 7 -->
             <div class="bg-gray-700 p-2">
-                <img alt="Two beautiful girls posing" class="mb-2" height="200" src="images/home/wtt.jpg" />
+                <img class="mb-2" height="200" src="images/home/wtt.jpg" />
                 <h3 class="text-sm font-semibold mb-1">
                     Table Tennis International Players
                 </h3>
@@ -144,9 +145,9 @@
                     Brief Description
                 </a>
             </div>
-            <!-- Image 3 -->
+            <!-- Image 8 -->
             <div class="bg-gray-700 p-2">
-                <img alt="A beautiful girl with sunglasses" class="mb-2" height="200" src="images/home/f1.png" />
+                <img class="mb-2" height="200" src="images/home/f1.png" />
                 <h3 class="text-sm font-semibold mb-1">
                     F1 Racers
                 </h3>
@@ -156,8 +157,5 @@
             </div>
         </section>
     </main>
-    <footer>
-        <!-- <p>About this JMKSY Photo Album.</p>-->
-    </footer>
 </body>
 </html>

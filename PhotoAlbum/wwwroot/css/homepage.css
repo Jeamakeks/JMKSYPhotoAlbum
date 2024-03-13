@@ -11,6 +11,7 @@ body {
     background-color: #1f2937;
     color: #fff;
     margin: 0;
+    padding-bottom: 2rem;
 }
 
 /* Header */
@@ -22,26 +23,26 @@ body {
 }
     /* Header title */
     .header h1 {
-        font-size: 1.875rem; 
-        font-weight: 700; 
+        font-size: 1.875rem;
+        font-weight: 700;
     }
 
     /* Header subtitle */
     .header p {
-        font-size: 0.75rem; 
-        margin-left: 0.5rem; 
+        font-size: 0.75rem;
+        margin-left: 0.5rem;
     }
 
 /* Logo */
 .logo {
     height: auto;
-    width: 100%; 
+    width: 100%;
     max-width: 100px;
 }
 
 .nav {
     display: flex;
-    gap: 1rem; 
+    gap: 1rem;
 }
 
     /* Navigation link style */
@@ -51,7 +52,7 @@ body {
         position: relative;
         transition: color 0.3s ease;
     }
-        
+
         .nav a:hover {
             color: #ccc;
         }
@@ -73,12 +74,13 @@ body {
 }
 
 /* Main */
+
 main {
     width: 100%;
-    max-width: 1200px; 
-    margin-left: auto; 
+    max-width: 1200px;
+    margin-left: auto;
     margin-right: auto;
-    padding-left: 1rem; 
+    padding-left: 1rem;
     padding-right: 1rem;
 }
 
